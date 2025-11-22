@@ -1,3 +1,5 @@
 print Hello world.
 After so many days i'm doing practice for git and github using aws linux instance.
 Ok nice boy
+--
+Hey i started using jenkins in my work as this is a cicd pipline which is a heart of aws and azure for the operations which automate the sdlc lifecycle.
